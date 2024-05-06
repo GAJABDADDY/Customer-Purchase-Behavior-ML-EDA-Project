@@ -1,4 +1,4 @@
-# Customer Purchase Behavior Analysis Project
+# Customer Purchase Behavior Analysis ML EDA Project
 
 ## Overview
 This project is an implementation of customer purchase behavior analysis using machine learning techniques in Python. It aims to understand and predict customer behavior patterns based on historical purchase data.
